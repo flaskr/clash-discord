@@ -1,5 +1,5 @@
 # clash-discord
-#### *Discord bot in Python for Clash Royale clan messages. 
+#### *Discord bot in Python for Clash Royale clan messages.*
 This bot pulls data from RoyaleApi and publishes useful updates to a discord channel.
 Documentation is under development and code has not been generalised.*
 
