@@ -10,12 +10,12 @@ discord.py from https://github.com/Rapptz/discord.py
 ```
 
 ### Features:
-* Upcoming Chests notifications for discord channel users (scheduled)
-* War notifications (scheduled and can be triggered via !war command)
+* **Upcoming Chests** notifications for discord channel users
+* **War notifications** (scheduled and can be triggered via !war command)
   * The bot will detect whether it is in Collection or War day
   	* War Day - Show current battle stats and tag users to remind them
   	* Collection Day - Tags users to remind them to finish their battles
-* Ranking information (scheduled)
+* **Ranking information**
   * Ranks the clan members according to configured scoring system. Data is obtained from /warlog endpoint which provides data from the last 10 wars.
 
 ### Configuration:
