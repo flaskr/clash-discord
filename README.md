@@ -28,6 +28,6 @@ discord.py from https://github.com/Rapptz/discord.py
     * enable dev mode in discord, and right click on users to see their discord id
 
 ### Deployment:
-* The repository includes the files for deploying on Heroku
+* The repository includes the files for deploying on Heroku (requirements.txt and Procfile)
 * chests.py and war.py has been set up to Heroku scheduler for daily reminders
 * rank.py has been set up to run twice a month to provide ranking information
